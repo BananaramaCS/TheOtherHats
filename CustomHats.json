@@ -19,12 +19,12 @@
       "bounce": true,
       "resource": "oCanada.png",
       "flipresource": "oCanada_flip.png",
-      "climbresource": "oCanada_climb_adaptive.png",
-      "backresource": "oCanada_back_bounce_adaptive.png",
+      "climbresource": "oCanada_climb.png",
+      "backresource": "oCanada_back_bounce.png",
       "reshasha": "7406882817146a22d76de689b34a2c25",
-      "reshashb": "bf8f13ebe5849a26fc17e9239a6102dd",
-      "reshashc": "0b3f0d4037de83d8a854b5cdf796055c",
-      "reshashbf": "7406882817146a22d76de689b34a2c25"
+      "reshashb": "b719d72f4f188e34f766a4d500b64184",
+      "reshashc": "6aced5b453cbaf923253f090b8d0d249",
+      "reshashf": "7406882817146a22d76de689b34a2c25"
     },
     {
       "author": "Ruolbu",
