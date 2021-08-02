@@ -16,6 +16,8 @@
       "condition": "None",
       "name": "Canada, eh!",
       "package": "Community Hats",
+      "adaptive": true,
+      "bounce": true,
       "resource": "o_Canada.png",
       "flipresource": "o_Canada_flip.png",
       "climbresource": "o_Canada_climb_adaptive.png",
