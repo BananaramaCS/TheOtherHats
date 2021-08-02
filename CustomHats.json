@@ -12,6 +12,15 @@
             "resource": "megaphone_bounce.png"
         },
         {
+            "author": "Bananarama",
+            "bounce": false,
+            "condition": "None",
+            "name": "O Canada",
+            "package": "Community Hats",
+            "reshasha" : "cd68aa3cb9abbe2beda4701788d04311",
+            "resource": "o_Canada.png"
+        },
+        {
             "author": "Ruolbu",
             "climbresource": "cat_climb.png",
             "condition": "None",
