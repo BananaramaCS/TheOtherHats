@@ -29,7 +29,7 @@
     {
       "author": "Bananarama",
       "condition": "None",
-	  "adaptive": true
+	  "adaptive": true,
       "name": "Mine Turtle",
       "package": "Developer Hats",
       "resource": "mineturtle_adaptive.png",
