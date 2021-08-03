@@ -15,7 +15,7 @@
       "author": "Bananarama",
       "condition": "None",
       "name": "Canada, eh!",
-      "package": "Developer Hats",
+      "package": "Community Hats",
       "bounce": true,
       "resource": "oCanada.png",
       "flipresource": "oCanada_flip.png",
@@ -29,21 +29,8 @@
     {
       "author": "Bananarama",
       "condition": "None",
-	  "adaptive": true
-      "name": "Mine Turtle",
-      "package": "Developer Hats",
-      "resource": "mineturtle_adaptive.png",
-      "flipresource": "mineturtle_flip_adaptive.png",
-      "climbresource": "mineturtle_climb_adaptive.png",
-	  "reshasha" : "65c4613a096ccca0985dfe55fad208a7",
-      "reshashc" : "e0986b7610d1f9c82b6523819f484136",
-	  "reshashf" : "65c4613a096ccca0985dfe55fad208a7"
-    },
-    {
-      "author": "Bananarama",
-      "condition": "None",
       "name": "Asian Cone Hat",
-      "package": "Developer Hats",
+      "package": "Community Hats",
       "bounce": true,
       "resource": "Asian-conical-hat_bounce.png",
       "climbresource": "Asian-conical-hat_climb.png",
