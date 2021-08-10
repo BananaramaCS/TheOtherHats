@@ -17,6 +17,22 @@
     },
     {
       "author": "Bananarama",
+      "name": "Sayan",
+      "package": "Developer Hats",
+      "resource": "sayan.png",
+      "flipresource": "sayan_flip.png",
+      "climbresource": "sayan_climb.png",
+      "backresource": "sayan_back.png",
+      "reshasha": "e0c88e359c6cdc7c526c0ec8439c262c",
+      "reshashb": "38fa1085d7319ce4a8365af082209131",
+      "reshashc": "8379360d860d77769f318583ecacd62c",
+      "reshashf": "f15396f251b35d96678a268ff61a3de0",
+      "bounce": false,
+      "adaptive": false,
+      "condition": "None"
+    },
+    {
+      "author": "Bananarama",
       "condition": "None",
       "adaptive": true,
       "name": "Mine Turtle",
