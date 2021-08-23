@@ -5,7 +5,7 @@
       "author": "Bananarama",
       "condition": "None",
       "name": "Canada, eh!",
-      "package": "Bananarama",
+      "package": "Developer Hats",
       "bounce": true,
       "resource": "oCanada.png",
       "flipresource": "oCanada_flip.png",
@@ -19,7 +19,7 @@
     {
       "author": "Bananarama",
       "name": "Sayan",
-      "package": "Bananarama",
+      "package": "Developer Hats",
       "resource": "sayan.png",
       "flipresource": "sayan_flip.png",
       "climbresource": "sayan_climb.png",
