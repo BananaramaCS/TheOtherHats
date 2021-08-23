@@ -1,61 +1,6 @@
 {
   "hats": [
     {
-      "author": "Bananarama",
-      "condition": "None",
-      "name": "Canada, eh!",
-      "package": "Bananarama Hats",
-      "bounce": true,
-      "resource": "oCanada.png",
-      "flipresource": "oCanada_flip.png",
-      "climbresource": "oCanada_climb.png",
-      "backresource": "oCanada_back_bounce.png",
-      "reshasha": "f3b3226a171d7bbb8a5e0f67a2695c9b",
-      "reshashb": "0eac38598c586d47c445ad57b5208d49",
-      "reshashc": "110d4d3a51d5cf8821dab6c4069a9b7f",
-      "reshashf": "f3b3226a171d7bbb8a5e0f67a2695c9b"
-    },
-    {
-      "author": "Bananarama",
-      "name": "Sayan",
-      "package": "Bananarama Hats",
-      "resource": "sayan.png",
-      "flipresource": "sayan_flip.png",
-      "climbresource": "sayan_climb.png",
-      "backresource": "sayan_back.png",
-      "reshasha": "e0c88e359c6cdc7c526c0ec8439c262c",
-      "reshashb": "38fa1085d7319ce4a8365af082209131",
-      "reshashc": "8379360d860d77769f318583ecacd62c",
-      "reshashf": "f15396f251b35d96678a268ff61a3de0",
-      "condition": "None"
-    },
-    {
-      "author": "Bananarama",
-      "condition": "None",
-      "adaptive": true,
-      "name": "Mine Turtle",
-      "package": "Bananarama Hats",
-      "resource": "mineturtle_adaptive.png",
-      "flipresource": "mineturtle_flip_adaptive.png",
-      "climbresource": "mineturtle_climb_adaptive.png",
-      "reshasha": "65c4613a096ccca0985dfe55fad208a7",
-      "reshashc": "e0986b7610d1f9c82b6523819f484136",
-      "reshashf": "65c4613a096ccca0985dfe55fad208a7"
-    },
-    {
-      "author": "Bananarama",
-      "condition": "None",
-      "name": "Asian Cone Hat",
-      "package": "Bananarama Hats",
-      "bounce": true,
-      "resource": "Asian-conical-hat_bounce.png",
-      "climbresource": "Asian-conical-hat_climb.png",
-      "backresource": "Asian-conical-hat_back_bounce.png",
-      "reshasha": "f580bc3b6309bb94dee5568b7d50af62",
-      "reshashb": "160d79a65a1771ed07c98449da59cb8c",
-      "reshashc": "89c3cd04ae9c1102c0f508e574468ad1"
-    },
-    {
       "author": "Palmer",
       "bounce": true,
       "climbresource": "megaphone_climb.png",
@@ -2410,6 +2355,61 @@
       "reshasha": "baffdbb4632d4b8c6cf5167097045535",
       "reshashc": "1848f2fbc7a44a1caae1a5d3f3cad140",
       "resource": "lollipop_adaptive.png"
+    },
+    {
+      "author": "Bananarama",
+      "condition": "None",
+      "name": "Canada, eh!",
+      "package": "Bananarama Hats",
+      "bounce": true,
+      "resource": "oCanada.png",
+      "flipresource": "oCanada_flip.png",
+      "climbresource": "oCanada_climb.png",
+      "backresource": "oCanada_back_bounce.png",
+      "reshasha": "f3b3226a171d7bbb8a5e0f67a2695c9b",
+      "reshashb": "0eac38598c586d47c445ad57b5208d49",
+      "reshashc": "110d4d3a51d5cf8821dab6c4069a9b7f",
+      "reshashf": "f3b3226a171d7bbb8a5e0f67a2695c9b"
+    },
+    {
+      "author": "Bananarama",
+      "name": "Sayan",
+      "package": "Bananarama Hats",
+      "resource": "sayan.png",
+      "flipresource": "sayan_flip.png",
+      "climbresource": "sayan_climb.png",
+      "backresource": "sayan_back.png",
+      "reshasha": "e0c88e359c6cdc7c526c0ec8439c262c",
+      "reshashb": "38fa1085d7319ce4a8365af082209131",
+      "reshashc": "8379360d860d77769f318583ecacd62c",
+      "reshashf": "f15396f251b35d96678a268ff61a3de0",
+      "condition": "None"
+    },
+    {
+      "author": "Bananarama",
+      "condition": "None",
+      "adaptive": true,
+      "name": "Mine Turtle",
+      "package": "Bananarama Hats",
+      "resource": "mineturtle_adaptive.png",
+      "flipresource": "mineturtle_flip_adaptive.png",
+      "climbresource": "mineturtle_climb_adaptive.png",
+      "reshasha": "65c4613a096ccca0985dfe55fad208a7",
+      "reshashc": "e0986b7610d1f9c82b6523819f484136",
+      "reshashf": "65c4613a096ccca0985dfe55fad208a7"
+    },
+    {
+      "author": "Bananarama",
+      "condition": "None",
+      "name": "Asian Cone Hat",
+      "package": "Bananarama Hats",
+      "bounce": true,
+      "resource": "Asian-conical-hat_bounce.png",
+      "climbresource": "Asian-conical-hat_climb.png",
+      "backresource": "Asian-conical-hat_back_bounce.png",
+      "reshasha": "f580bc3b6309bb94dee5568b7d50af62",
+      "reshashb": "160d79a65a1771ed07c98449da59cb8c",
+      "reshashc": "89c3cd04ae9c1102c0f508e574468ad1"
     }
   ]
 }
