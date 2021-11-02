@@ -12,7 +12,7 @@
 		},
 		{
 			"author": "Bananarama",
-			"name": "Party2",
+			"name": "Party2a",
 			"package": "Bananarama Hats",
 			"resource": "partyguest2_adaptive.png",
 			"flipresource": "partyguest2_flip.png",
@@ -33,7 +33,7 @@
 		},
 		{
 			"author": "Bananarama",
-			"name": "Party1",
+			"name": "Party1a",
 			"package": "Bananarama Hats",
 			"resource": "partyguest1_adaptive.png",
 			"flipresource": "partyguest1_flip.png",
