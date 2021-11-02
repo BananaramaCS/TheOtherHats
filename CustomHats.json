@@ -6,14 +6,8 @@
 			"package": "Bananarama Hats",
 			"resource": "partyguest2NA.png",
 			"flipresource": "partyguest2NA_flip.png",
-			"climbresource": null,
-			"backresource": null,
 			"reshasha": "d821686eb0303310ab37f44d7a7ded5c",
-			"reshashb": null,
-			"reshashc": null,
 			"reshashf": "7c56ddf56fa0b2988c8e53bb851c7b06",
-			"bounce": false,
-			"adaptive": false,
 			"condition": "None"
 		},
 		{
@@ -22,14 +16,9 @@
 			"package": "Bananarama Hats",
 			"resource": "partyguest2_adaptive.png",
 			"flipresource": "partyguest2_flip.png",
-			"climbresource": null,
-			"backresource": null,
 			"reshasha": "5ff3f35d79563148ab3554af54606f64",
-			"reshashb": null,
-			"reshashc": null,
 			"reshashf": "eb7a851f9650b7252bb4edd7fc2468b2",
-			"bounce": false,
-			"adaptive": false,
+			"adaptive": true,
 			"condition": "None"
 		},
 		{
@@ -38,14 +27,8 @@
 			"package": "Bananarama Hats",
 			"resource": "partyguest1NA.png",
 			"flipresource": "partyguest1NA_flip.png",
-			"climbresource": null,
-			"backresource": null,
 			"reshasha": "7c56ddf56fa0b2988c8e53bb851c7b06",
-			"reshashb": null,
-			"reshashc": null,
 			"reshashf": "d821686eb0303310ab37f44d7a7ded5c",
-			"bounce": false,
-			"adaptive": false,
 			"condition": "None"
 		},
 		{
@@ -54,14 +37,9 @@
 			"package": "Bananarama Hats",
 			"resource": "partyguest1_adaptive.png",
 			"flipresource": "partyguest1_flip.png",
-			"climbresource": null,
-			"backresource": null,
 			"reshasha": "eb7a851f9650b7252bb4edd7fc2468b2",
-			"reshashb": null,
-			"reshashc": null,
 			"reshashf": "5ff3f35d79563148ab3554af54606f64",
-			"bounce": false,
-			"adaptive": false,
+			"adaptive": true,
 			"condition": "None"
 		},
 		{
@@ -70,14 +48,10 @@
 			"package": "Bananarama Hats",
 			"resource": "bdaymandaNA.png",
 			"flipresource": "bdaymandaNA_flip.png",
-			"climbresource": null,
 			"backresource": "bdaymandaNA_back.png",
 			"reshasha": "224bd269a799c013a3664f012001f559",
 			"reshashb": "212090dc83e5184960a975259b756c0f",
-			"reshashc": null,
 			"reshashf": "b1e4a00ff2a6cffa4213d42104147fb4",
-			"bounce": false,
-			"adaptive": false,
 			"condition": "None"
 		},
 		{
@@ -86,14 +60,11 @@
 			"package": "Bananarama Hats",
 			"resource": "bdaymanda_adaptive.png",
 			"flipresource": "bdaymanda_flip.png",
-			"climbresource": null,
 			"backresource": "bdaymanda_back.png",
 			"reshasha": "81a8df4532168cb07c5e44dbaac8859f",
 			"reshashb": "212090dc83e5184960a975259b756c0f",
-			"reshashc": null,
 			"reshashf": "7d9f8bda388302f1c24dc65a1b1bc0f0",
-			"bounce": false,
-			"adaptive": false,
+			"adaptive": true,
 			"condition": "None"
 		},
 		{
