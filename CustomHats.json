@@ -3019,6 +3019,54 @@
       "reshasha": "f580bc3b6309bb94dee5568b7d50af62",
       "reshashb": "160d79a65a1771ed07c98449da59cb8c",
       "reshashc": "89c3cd04ae9c1102c0f508e574468ad1"
+    },
+    {
+      "author": "Bananarama",
+      "name": "ElementAir",
+      "package": "Developer Hats",
+      "resource": "ElementAir.png",
+      "climbresource": "ElementAir_climb.png",
+      "backresource": "ElementAir_back.png",
+      "reshasha": "146d8574d7ccb857b19b860cf664afec",
+      "reshashb": "3cb5e396382a5689d30f3c0910eb387e",
+      "reshashc": "b7d4d523d1efa4d1aae3a3f5e2f728c8",
+      "condition": "None"
+    },
+    {
+      "author": "Bananarama",
+      "name": "ElementEearth",
+      "package": "Developer Hats",
+      "resource": "ElementEearth.png",
+      "climbresource": "ElementEearth_climb.png",
+      "backresource": "ElementEearth_back.png",
+      "reshasha": "1a05920e592a51b676d4957911f61c80",
+      "reshashb": "96b7c550d3a3b29193225625d71aa965",
+      "reshashc": "214322074aefcee5c07af1ef2c877690",
+      "condition": "None"
+    },
+    {
+      "author": "Bananarama",
+      "name": "ElementFire",
+      "package": "Developer Hats",
+      "resource": "ElementFire.png",
+      "climbresource": "ElementFire_climb.png",
+      "backresource": "ElementFire_back.png",
+      "reshasha": "4a4236c93127f198e624ab25a7d22954",
+      "reshashb": "d95904e9eacc8d53298f5c0f9dbb029e",
+      "reshashc": "2c0e22caeaa58660bb19095b475d0b84",
+      "condition": "None"
+    },
+    {
+      "author": "Bananarama",
+      "name": "ElementWater",
+      "package": "Developer Hats",
+      "resource": "ElementWater.png",
+      "climbresource": "ElementWater_climb.png",
+      "backresource": "ElementWater_back.png",
+      "reshasha": "7f7b8fcacbec146857c484a10f151776",
+      "reshashb": "bdea48928a01317db80556d73f45e5e0",
+      "reshashc": "866c57cc8ae948048ba8cb85997cbcbd",
+      "condition": "None"
     }
   ]
 }
