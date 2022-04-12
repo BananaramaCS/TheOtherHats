@@ -3330,6 +3330,16 @@
       "reshashc": "89c3cd04ae9c1102c0f508e574468ad1"
     },
     {
+      "author": "Bananarama",
+      "name": "Football Player",
+      "package": "Bananarama Hats",
+      "resource": "footballplayer.png",
+      "flipresource": "footballplayer_flip.png",
+      "reshasha": "7667361b554b33a25dd34baa39ca6c2c",
+      "reshashf": "384397b84554989b2c0fb205f35c0d45",
+      "condition": "None"
+    },
+    {
       "author": "K3ndo",
       "name": "ElementAir",
       "package": "Developer Hats",
@@ -3375,16 +3385,6 @@
       "reshasha": "7f7b8fcacbec146857c484a10f151776",
       "reshashb": "bdea48928a01317db80556d73f45e5e0",
       "reshashc": "866c57cc8ae948048ba8cb85997cbcbd",
-      "condition": "None"
-    },
-    {
-      "author": "Bananarama",
-      "name": "Football Player",
-      "package": "Developer Hats",
-      "resource": "footballplayer.png",
-      "flipresource": "footballplayer_flip.png",
-      "reshasha": "7667361b554b33a25dd34baa39ca6c2c",
-      "reshashf": "384397b84554989b2c0fb205f35c0d45",
       "condition": "None"
     }
   ]
