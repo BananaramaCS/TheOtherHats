@@ -3200,19 +3200,6 @@
     {
       "adaptive": true,
       "author": "K3ndo",
-      "backresource": "Villain_back_adaptive.png",
-      "climbresource": "Villain_climb_adaptive.png",
-      "condition": "None",
-      "name": "Villain",
-      "package": "Community Hats",
-      "reshasha": "320fdc23c8005bc16f1035093df4a9d6",
-      "reshashb": "b2f8ba24a67122b962111dd42351fb35",
-      "reshashc": "7618ee7e3c6d35f5a91b1f81ea0a6c7e",
-      "resource": "Villain_adaptive.png"
-    },
-    {
-      "adaptive": true,
-      "author": "K3ndo",
       "climbresource": "BottlePost_climb_adaptive.png",
       "condition": "None",
       "name": "BottlePost",
@@ -3366,18 +3353,6 @@
       "reshashb": "cba09795887e9f2d6f8a1044c0dc0767",
       "reshashc": "2411df064828e05781467e6149b89ae2",
       "resource": "TimitFluffy.png"
-    },
-    {
-      "author": "K3ndo",
-      "backresource": "Witch_back.png",
-      "climbresource": "Witch_climb.png",
-      "condition": "None",
-      "name": "Witch",
-      "package": "Community Hats",
-      "reshasha": "ff99876f2c82849a29376940d68117b2",
-      "reshashb": "e6efeb0b8348f51306a5b388bf93d4dc",
-      "reshashc": "cdc52c66a2593698a614a50422518e25",
-      "resource": "Witch.png"
     },
     {
       "author": "Bananarama",
